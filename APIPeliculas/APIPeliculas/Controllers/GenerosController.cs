@@ -33,9 +33,19 @@ namespace APIPeliculas.Controllers
         }
 
         [HttpGet("{id:int}",Name ="ObtenerGeneroPorId")]
-        public async Task<ActionResult<List<Genero>>> get(int id)
+        public async Task<ActionResult<GeneroDTO>> get(int id)
         {
-            return await _context.Generos.ToListAsync();
+            var genero= await _context.Generos.FirstOrDefaultAsync(g => g.Id == id);
+
+            var generoDTO= _mapper.Map<GeneroDTO>(genero);
+
+            if (generoDTO == null)
+            {
+                return NotFound();
+            }
+
+            return generoDTO;
+
         }
 
         [HttpPost]
@@ -47,6 +57,38 @@ namespace APIPeliculas.Controllers
             await _context.SaveChangesAsync();
 
             return CreatedAtRoute("ObtenerGeneroPorId", new {id=genero.Id},genero);
+        }
+
+        [HttpPut("{id:int}")]
+        public async Task<IActionResult> Put(int id, [FromBody]GeneroCreacionDTO generoCreacionDTO)
+        {
+            var generoExiste= await _context.Generos.AnyAsync(g => g.Id == id);
+
+            if (!generoExiste)
+            {
+                return NotFound();
+            }
+
+            var genero = _mapper.Map<Genero>(generoCreacionDTO);
+
+            _context.Update(genero);
+
+            await _context.SaveChangesAsync();
+
+            return NoContent();
+        }
+
+        [HttpDelete("{id:int}")]
+        public async Task<IActionResult> Delete(int id)
+        {
+            var registrosBorrados= await _context.Generos.Where(g => g.Id==id).ExecuteDeleteAsync();
+
+            if(registrosBorrados == 0)
+            {
+                return NotFound();
+            }
+
+            return NoContent();
         }
     }
 }

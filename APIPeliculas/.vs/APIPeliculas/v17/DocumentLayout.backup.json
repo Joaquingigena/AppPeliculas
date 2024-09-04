@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B738AB77-5C1F-4532-95A4-2BCF6E62EDB9}|APIPeliculas\\APIPeliculas.csproj|c:\\users\\joaquin gigena\\onedrive\\documentos\\apppeliculas\\apipeliculas\\apipeliculas\\migrations\\20240904040717_tablaactores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B738AB77-5C1F-4532-95A4-2BCF6E62EDB9}|APIPeliculas\\APIPeliculas.csproj|solutionrelative:apipeliculas\\migrations\\20240904040717_tablaactores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B738AB77-5C1F-4532-95A4-2BCF6E62EDB9}|APIPeliculas\\APIPeliculas.csproj|c:\\users\\joaquin gigena\\onedrive\\documentos\\apppeliculas\\apipeliculas\\apipeliculas\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B738AB77-5C1F-4532-95A4-2BCF6E62EDB9}|APIPeliculas\\APIPeliculas.csproj|solutionrelative:apipeliculas\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B738AB77-5C1F-4532-95A4-2BCF6E62EDB9}|APIPeliculas\\APIPeliculas.csproj|c:\\users\\joaquin gigena\\onedrive\\documentos\\apppeliculas\\apipeliculas\\apipeliculas\\entidades\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B738AB77-5C1F-4532-95A4-2BCF6E62EDB9}|APIPeliculas\\APIPeliculas.csproj|solutionrelative:apipeliculas\\entidades\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B738AB77-5C1F-4532-95A4-2BCF6E62EDB9}|APIPeliculas\\APIPeliculas.csproj|c:\\users\\joaquin gigena\\onedrive\\documentos\\apppeliculas\\apipeliculas\\apipeliculas\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B738AB77-5C1F-4532-95A4-2BCF6E62EDB9}|APIPeliculas\\APIPeliculas.csproj|solutionrelative:apipeliculas\\controllers\\generoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B738AB77-5C1F-4532-95A4-2BCF6E62EDB9}|APIPeliculas\\APIPeliculas.csproj|c:\\users\\joaquin gigena\\onedrive\\documentos\\apppeliculas\\apipeliculas\\apipeliculas\\dtos\\paginaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B738AB77-5C1F-4532-95A4-2BCF6E62EDB9}|APIPeliculas\\APIPeliculas.csproj|solutionrelative:apipeliculas\\dtos\\paginaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B738AB77-5C1F-4532-95A4-2BCF6E62EDB9}|APIPeliculas\\APIPeliculas.csproj|c:\\users\\joaquin gigena\\onedrive\\documentos\\apppeliculas\\apipeliculas\\apipeliculas\\utilidades\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B738AB77-5C1F-4532-95A4-2BCF6E62EDB9}|APIPeliculas\\APIPeliculas.csproj|c:\\users\\joaquin gigena\\onedrive\\documentos\\apppeliculas\\apipeliculas\\apipeliculas\\migrations\\20240903035610_tablageneros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B738AB77-5C1F-4532-95A4-2BCF6E62EDB9}|APIPeliculas\\APIPeliculas.csproj|solutionrelative:apipeliculas\\migrations\\20240903035610_tablageneros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B738AB77-5C1F-4532-95A4-2BCF6E62EDB9}|APIPeliculas\\APIPeliculas.csproj|c:\\users\\joaquin gigena\\onedrive\\documentos\\apppeliculas\\apipeliculas\\apipeliculas\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B738AB77-5C1F-4532-95A4-2BCF6E62EDB9}|APIPeliculas\\APIPeliculas.csproj|solutionrelative:apipeliculas\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 538,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,50 +90,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GeneroDTO.cs",
-              "DocumentMoniker": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\DTOs\\GeneroDTO.cs",
-              "RelativeDocumentMoniker": "APIPeliculas\\DTOs\\GeneroDTO.cs",
-              "ToolTip": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\DTOs\\GeneroDTO.cs",
-              "RelativeToolTip": "APIPeliculas\\DTOs\\GeneroDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "20240904040717_TablaActores.cs",
+              "DocumentMoniker": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\Migrations\\20240904040717_TablaActores.cs",
+              "RelativeDocumentMoniker": "APIPeliculas\\Migrations\\20240904040717_TablaActores.cs",
+              "ToolTip": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\Migrations\\20240904040717_TablaActores.cs",
+              "RelativeToolTip": "APIPeliculas\\Migrations\\20240904040717_TablaActores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T04:46:50.437Z",
+              "WhenOpened": "2024-09-04T04:07:17.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\Entidades\\Actor.cs",
+              "RelativeDocumentMoniker": "APIPeliculas\\Entidades\\Actor.cs",
+              "ToolTip": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\Entidades\\Actor.cs",
+              "RelativeToolTip": "APIPeliculas\\Entidades\\Actor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T04:04:03.752Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "GeneroCreacionDTO.cs",
-              "DocumentMoniker": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\DTOs\\GeneroCreacionDTO.cs",
-              "RelativeDocumentMoniker": "APIPeliculas\\DTOs\\GeneroCreacionDTO.cs",
-              "ToolTip": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\DTOs\\GeneroCreacionDTO.cs",
-              "RelativeToolTip": "APIPeliculas\\DTOs\\GeneroCreacionDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Title": "PaginacionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\DTOs\\PaginacionDTO.cs",
+              "RelativeDocumentMoniker": "APIPeliculas\\DTOs\\PaginacionDTO.cs",
+              "ToolTip": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\DTOs\\PaginacionDTO.cs",
+              "RelativeToolTip": "APIPeliculas\\DTOs\\PaginacionDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T04:46:39.801Z",
+              "WhenOpened": "2024-09-03T05:26:15.717Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "AutoMapperProfiles.cs",
               "DocumentMoniker": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\Utilidades\\AutoMapperProfiles.cs",
               "RelativeDocumentMoniker": "APIPeliculas\\Utilidades\\AutoMapperProfiles.cs",
-              "ToolTip": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\Utilidades\\AutoMapperProfiles.cs*",
-              "RelativeToolTip": "APIPeliculas\\Utilidades\\AutoMapperProfiles.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\Utilidades\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "APIPeliculas\\Utilidades\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T04:46:25.068Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2024-09-03T04:46:25.068Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\appsettings.json",
               "RelativeDocumentMoniker": "APIPeliculas\\appsettings.json",
@@ -129,12 +149,11 @@
               "RelativeToolTip": "APIPeliculas\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-03T04:25:33.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T04:25:33.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "APIPeliculas\\Properties\\launchSettings.json",
@@ -142,25 +161,24 @@
               "RelativeToolTip": "APIPeliculas\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-03T04:23:14.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T04:23:14.37Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "GenerosController.cs",
               "DocumentMoniker": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\Controllers\\GenerosController.cs",
               "RelativeDocumentMoniker": "APIPeliculas\\Controllers\\GenerosController.cs",
               "ToolTip": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\Controllers\\GenerosController.cs",
               "RelativeToolTip": "APIPeliculas\\Controllers\\GenerosController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA5wCcAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwFUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-03T04:02:24.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "20240903035610_TablaGeneros.cs",
               "DocumentMoniker": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\Migrations\\20240903035610_TablaGeneros.cs",
               "RelativeDocumentMoniker": "APIPeliculas\\Migrations\\20240903035610_TablaGeneros.cs",
@@ -168,12 +186,11 @@
               "RelativeToolTip": "APIPeliculas\\Migrations\\20240903035610_TablaGeneros.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T03:56:11.005Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T03:56:11.005Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\appsettings.Development.json",
               "RelativeDocumentMoniker": "APIPeliculas\\appsettings.Development.json",
@@ -181,12 +198,48 @@
               "RelativeToolTip": "APIPeliculas\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-03T03:46:45.104Z",
+              "WhenOpened": "2024-09-03T03:46:45.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "APIPeliculas\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\ApplicationDbContext.cs",
+              "RelativeToolTip": "APIPeliculas\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T03:45:52.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "GeneroCreacionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\DTOs\\GeneroCreacionDTO.cs",
+              "RelativeDocumentMoniker": "APIPeliculas\\DTOs\\GeneroCreacionDTO.cs",
+              "ToolTip": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\DTOs\\GeneroCreacionDTO.cs",
+              "RelativeToolTip": "APIPeliculas\\DTOs\\GeneroCreacionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T04:46:39.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GeneroDTO.cs",
+              "DocumentMoniker": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\DTOs\\GeneroDTO.cs",
+              "RelativeDocumentMoniker": "APIPeliculas\\DTOs\\GeneroDTO.cs",
+              "ToolTip": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\DTOs\\GeneroDTO.cs",
+              "RelativeToolTip": "APIPeliculas\\DTOs\\GeneroDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T04:46:50.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Genero.cs",
               "DocumentMoniker": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\Entidades\\Genero.cs",
               "RelativeDocumentMoniker": "APIPeliculas\\Entidades\\Genero.cs",
@@ -194,25 +247,11 @@
               "RelativeToolTip": "APIPeliculas\\Entidades\\Genero.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T03:28:51.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T03:28:51.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "APIPeliculas\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\ApplicationDbContext.cs",
-              "RelativeToolTip": "APIPeliculas\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T03:45:52.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\joaquin gigena\\OneDrive\\Documentos\\AppPeliculas\\APIPeliculas\\APIPeliculas\\Program.cs",
               "RelativeDocumentMoniker": "APIPeliculas\\Program.cs",
@@ -220,8 +259,11 @@
               "RelativeToolTip": "APIPeliculas\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T03:29:20.179Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-03T03:29:20.179Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

@@ -10,6 +10,9 @@ namespace APIPeliculas.Utilidades
         {
             CreateMap<GeneroCreacionDTO, Genero>();
             CreateMap<Genero,GeneroDTO>();
+
+            CreateMap<ActorCreacionDTO, Actor>()
+                .ForMember(x => x.Foto, opciones => opciones.Ignore());
         }
     }
 }
